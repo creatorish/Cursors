@@ -4,7 +4,7 @@ AS3でカーソル機能を拡張するライブラリ
 
 デモ
 ------
-<a href="http://dev.creatorish.com/demo/bangojs/" target="_blank">http://dev.creatorish.com/demo/bangojs/</a>
+http://dev.creatorish.com/demo/bangojs/
 
 使い方
 ------
