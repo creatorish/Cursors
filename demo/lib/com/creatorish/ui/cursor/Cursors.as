@@ -12,9 +12,9 @@
 	
 	/**
 	 * カーソル拡張クラス
-	 * @author yuu@creatorish
+	 * @author airbird
 	 * @link http://creatorish.com
-	 * @version 4.3
+	 * @version 4.2
 	 */
 	
 	public class Cursors
