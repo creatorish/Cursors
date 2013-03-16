@@ -20,7 +20,7 @@ http://dev.creatorish.com/demo/bangojs/
 様々なケースに対応するため、初期ではカーソルが何一つ入っていません。  
 そのため、デフォルトの15種類のカーソルを使うためにプラグインを実行する必要があります。
 
-    import net.lifebird.ui.cursor.plugins.*; 
+    import com.creatorish.ui.cursor.plugins.*; 
     //Flexの場合
     FlexCursors.Set(); 
     //CSの場合
